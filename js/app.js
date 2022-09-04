@@ -1,4 +1,4 @@
-console.log("hi");
+console.log("welcome to myNote app console");
 showNotes()
 let saveEvent = document.getElementById("saveBtn");
 saveEvent.addEventListener("click", function () {
